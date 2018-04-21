@@ -1,0 +1,866 @@
+  数  【かず】  number, amount
+  数多く  【かずおおく】  in great numbers
+  手数  【てすう】  trouble, bother, number of moves (in go, shogi, etc.), number of punches (in boxing)
+  口数  【くちかず】  number of words a person speaks, number of dependents, number of mouths to feed, number of shares, items, applications, etc.
+  数える  【かぞえる】  to count, to enumerate
+  屡々  【しばしば】  often, again and again, frequently, repeatedly
+
+  多い  【おおい】  many, numerous, a lot, large quantity, large amount, frequent, common
+
+  少ない  【すくない】  few, a little, scarce, insufficient, seldom
+  少ない時間  【すくないじかん】  limited time
+  少し  【すこし】  small quantity, little, few, something, little while, short distance
+  少しも  【すこしも】  anything of, not one bit (with negative sentence)
+
+  万  【まん】  10,000, ten thousand, myriad, everything, all, various
+  万代  【ばんだい】  thousands of years, eternity, all generations
+  千万  【せんばん】  exceedingly, very many, very much, indeed, a great many
+  八百万  【やおよろず】  myriad, countless things
+
+  半ば  【なかば】  middle, half, semi, halfway, partly
+  半ば過ぎ  【なかばすぎ】  beyond the middle
+
+  形  【かた】  shape, appearance, collateral, obverse of an old "zeni" coin
+  形  【かたち】  form, shape, figure, visage
+  跡形  【あとかた】  trace, vestige, evidence
+  館  【やかた】  mansion, small castle, nobleman, noblewoman, boat cabin
+  形  【かたち】  form, shape, figure, visage
+  形作る  【かたちづくる】  to form, to shape, to make, to mold, to mould, to build up
+  顔かたち  【かおかたち】  features, looks
+  姿形  【すがたかたち】  appearance, figure, shape, form
+  形  【なり】  style, way, shape, form, appearance, state
+  形体  【なりかたち】  one's appearance
+  弓なり  【ゆみなり】  bow shape, arc, arch, segment (of a circle)
+  生成り  【きなり】  unbleached cloth, unbleached colour (color), unbleached, undyed
+
+  太い  【ふとい】  fat, thick, deep (of a voice), daring, shameless, brazen, lucky (billiards)
+  太藺  【ふとい】  softstem bulrush (Scirpus tabernaemontani)
+  太る  【ふとる】  to grow fat (stout, plump), to become fat, to gain weight
+
+  細い  【ほそい】  thin, slender, fine, unlucky (billiards slang)
+  細い糸  【ほそいいと】  fine thread
+  細る  【ほそる】  to get thin, to taper off
+  細か  【こまか】  small, fine, detailed, stingy
+  細かい  【こまかい】  small, fine, minute, minor, trivial, sensitive, attentive
+  細かい  【こまかい】  small, fine, minute, minor, trivial, sensitive, attentive
+  細かいこと  【こまかいこと】  trifles, minor details
+
+  広い  【ひろい】  spacious, vast, wide
+  広い支持  【ひろいしじ】  broad support, wide-ranging support
+  広まる  【ひろまる】  to spread, to be propagated
+  広める  【ひろめる】  to spread, to propagate, to popularize, to disseminate, to broaden, to extend, to widen, to enlarge
+  広がる  【ひろがる】  to spread (out), to extend, to stretch, to reach to, to get around, to fill (e.g. a space)
+  広げる  【ひろげる】  to spread, to extend, to expand, to enlarge, to widen, to broaden, to unfold, to open, to unroll, to unwrap, to scatter about, to spread around, to make flourish, to cause to prosper
+
+  長い  【ながい】  long (distance), long (time), lengthy
+  長居  【ながい】  long visit, overstaying
+  長  【おさ】  head, chief, leader, elder, the greatest of all, the most excellent
+  長亀  【おさがめ】  leatherback turtle (Dermochelys coriacea)
+  田長  【たおさ】  master of the rice field, chief farmer, lesser cuckoo (Cuculus poliocephalus)
+  死出田長  【しでたおさ】  lesser cuckoo (Cuculus poliocephalus)
+
+  点ける  【つける】  to turn on, to switch on, to light up
+  点く  【つく】  to be lit (e.g. electricity comes on), to be lighted, to catch fire
+  点てる  【たてる】  to make tea (matcha), to perform the tea ceremony
+  注す  【さす】  to pour, to add (liquid), to serve (drinks), to put on (lipstick, etc.), to apply, to colour, to dye, to light (a fire), to burn
+  灯す  【ともす】  to light (a candle, lamp, etc.), to turn on (a light)
+  灯す  【ともす】  to light (a candle, lamp, etc.), to turn on (a light)
+
+  丸  【まる】  circle, entirety, whole, full, complete, money, dough, moola, enclosure inside a castle's walls, soft-shelled turtle, suffix for ship names, suffix for names of people (esp. infants), suffix for names of swords, armour, musical instruments, etc., suffix for names of dogs, horses, etc.
+  丸い  【まるい】  round, circular, spherical, harmonious, calm
+  本丸  【ほんまる】  inner citadel, core, center, centre, focus, crux
+  鳳凰丸  【ほうおうまる】  Hōō Maru (Western-style Japanese frigate, launched in 1853)
+  丸める  【まるめる】  to make round, to roll up, to curl up, to seduce, to cajole, to explain away, to round off (a fraction), to lump together
+  丸い  【まるい】  round, circular, spherical, harmonious, calm
+  丸一日  【まるいちにち】  the whole day, all the day
+
+  交わる  【まじわる】  to cross, to intersect, to join, to meet, to associate with, to mingle with, to consort with, to have a sexual relationship, to copulate
+  交える  【まじえる】  to mix, to combine, to exchange (words, fire, etc.), to cross (e.g. swords), to join together
+  混じる  【まじる】  to be mixed, to be blended with, to associate with, to mingle with, to interest, to join
+  混じる  【まじる】  to be mixed, to be blended with, to associate with, to mingle with, to interest, to join
+  混ざる  【まざる】  to be mixed, to be blended with, to associate with, to mingle with, to join
+  混ぜる  【まぜる】  to mix, to stir, to blend
+  交わす  【かわす】  to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other
+  交わす  【かわす】  to exchange (messages, greetings, arguments, etc.), to intersect, to cross, to interlace, ... with one another, ... to each other
+  交々  【こもごも】  alternately, in succession
+
+  光る  【ひかる】  to shine, to glitter, to be bright
+  光る棒  【ひかるぼう】  glowstick, neon light stick
+  光  【ひかり】  light, illumination, ray, beam, gleam, glow, happiness, hope, influence, power, vision, eyesight
+  光り輝く  【ひかりかがやく】  to shine, to glitter
+  一筋の希望の光  【ひとすじのきぼうのひかり】  a ray of hope
+  越光  【こしひかり】  Koshihikari (variety of rice)
+
+  角  【かど】  corner (e.g. desk, pavement), edge
+  角地  【かどち】  corner lot
+  四つ角  【よつかど】  four corners, crossroads, intersecting street, street corner
+  塩角  【しおかど】  sharp taste of (refined) salt
+  角  【つの】  horn, antler, antenna, feeler, tentacle (e.g. of a snail), horn-like projection (e.g. peaks of whipped cream)
+  角隠し  【つのかくし】  bride's head-dress
+  枝角  【えだづの】  antler (deer, etc.)
+  豊饒の角  【ほうじょうのつの】  cornucopia, horn of plenty
+
+  計る  【はかる】  to measure, to weigh, to survey, to time (sound, gauge, estimate), to conjecture, to infer, to surmise
+  計らう  【はからう】  to manage, to arrange, to talk over, to dispose of
+
+  直ちに  【ただちに】  at once, immediately, directly, in person, automatically
+  治す  【なおす】  to cure, to heal, to fix, to correct, to repair, to do over again, to replace, to put back as it was, to convert (into a different state), to transform
+  治る  【なおる】  to be cured, to get well, to be healed, to get mended, to be repaired, to be fixed
+  直き  【なおき】  straight, upright
+  直ぐ  【すぐ】  immediately, at once, right away, directly, soon, before long, shortly, easily, readily, without difficulty, right (near), nearby, just (handy), honest, upright, frank, straightforward
+  直ぐに  【すぐに】  immediately, right away, at once, instantly
+  真直ぐ  【ますぐ】  straight (ahead), direct, upright, erect, straightforward, honest, frank
+
+
+
+  矢  【や】  arrow, wedge, chock
+  矢印  【やじるし】  arrow (mark or symbol), directional marker or indicator
+  弓矢  【ゆみや】  bow and arrow
+  洗い矢  【あらいや】  ramrod, cleaning rod
+
+  弱い  【よわい】  weak, frail, delicate, tender, unskilled, weak (wine)
+  弱い者  【よわいもの】  weak person, the weak
+  弱る  【よわる】  to weaken, to grow weak, to wane, to decline (of one's health), to be downcast, to be dejected, to be dispirited, to be troubled, to be at a loss, to be perplexed, to be annoyed
+  弱まる  【よわまる】  to abate, to weaken, to be emaciated, to be dejected, to be perplexed
+  弱める  【よわめる】  to weaken
+
+  強い  【つよい】  strong, potent, competent, domineering, tough, strong, brawny, powerful, healthy, rugged, good (at), skilled, knowledgeable, being able to handle, know how to deal (with), durable (against), resistant (to), resilient, firm, rigid, solid, intense, strong, fierce, high, dependable, trustworthy
+  強い心  【つよいこころ】  stout heart, strong mind
+  強まる  【つよまる】  to get strong, to gain strength
+  強める  【つよめる】  to strengthen, to emphasize, to emphasise
+  強いる  【しいる】  to force, to compel, to coerce
+  強い  【こわい】  tough, stiff, hard, inflexible, obstinate, stubborn
+  強飯  【こわめし】  glutinous rice with red beans (eaten on celebratory occasions), mochi rice with red beans
+
+  高い  【たかい】  high, tall, expensive, high-priced, high (level), above average (in degree, quality, etc.), loud, high-pitched, shrill
+  高いびき  【たかいびき】  loud snoring
+  高  【たか】  quantity, amount, volume, number, amount of money
+  高い  【たかい】  high, tall, expensive, high-priced, high (level), above average (in degree, quality, etc.), loud, high-pitched, shrill
+  威高  【いたか】  arrogant
+  背高  【せいたか】  tallness, tall person
+  高まる  【たかまる】  to rise, to swell, to be promoted
+  高める  【たかめる】  to raise, to lift, to boost, to enhance
+
+  同じ  【おなじ】  same, identical, equal, uniform, equivalent, similar, common (origin), changeless, alike, anyway, anyhow, in either case
+  同じく  【おなじく】  similarly, same (idea), same (name)
+
+  親  【おや】  parent, parents, mother and father, dealer (in cards, mahjong, etc.), banker, founder, inventor, (pet) owner, key, parent (organization), main, ancestor, forefather
+  親指  【おやゆび】  thumb
+  名付け親  【なづけおや】  godparent, first person to give something its name
+  里親  【さとおや】  foster parent, foster parents
+  親しい  【したしい】  close (e.g. friend), familiar, friendly, intimate, familiar (e.g. story), well-known (to one), close (relatives), closely related
+  親しい友達  【したしいともだち】  close (intimate) friend
+  親しむ  【したしむ】  to be intimate with, to befriend
+
+  母  【はは】  mother
+  母親  【ははおや】  mother
+  必要は発明の母  【ひつようははつめいのはは】  necessity is the mother of invention
+  義理の母  【ぎりのはは】  mother-in-law, foster mother, stepmother
+  母屋  【もや】  purlin (structural beam in a roof), purline, main building (of a manor), central room (in traditional palatial-style architecture)
+  母屋桁  【もやげた】  purlin (structural beam in a roof), purline
+  雲母  【うんも】  mica, isinglass
+  乳母  【うば】  wet nurse, nursing mother
+
+  父  【ちち】  father
+  父親  【ちちおや】  father
+  原子物理学の父  【げんしぶつりがくのちち】  father of atomic physics
+  義理の父  【ぎりのちち】  father-in-law, foster father, stepfather
+
+  姉  【あね】  older sister, elder sister
+  姉さん  【ねえさん】  elder sister, young lady, miss, ma'am
+  大姉  【おおあね】  eldest sister
+
+  兄  【あに】  elder brother, older brother
+  兄貴  【あにき】  elder brother, one's senior, older man, man older than oneself
+  中の兄  【なかのあに】  middle brother
+  義理の兄  【ぎりのあに】  one's brother-in-law, stepbrother (elder)
+
+  弟  【おとうと】  younger brother, little brother, kid brother, pupil, apprentice
+  弟君  【おとうとぎみ】  younger brother
+
+  妹  【いもうと】  younger sister
+  妹さん  【いもうとさん】  younger sister
+
+  自ら  【みずから】  oneself, for one's self, personally
+  自ら進んで  【みずからすすんで】  by choice, of one's own free will, on one's own initiative, off one's own bat
+  自ずから  【おのずから】  naturally, as a matter of course
+  自ずから明らか  【おのずからあきらか】  self-evident
+  自ずと  【おのずと】  naturally, in due course, by itself
+
+  友  【とも】  friend, companion, comrade, pal
+  友達  【ともだち】  friend, companion
+  竹馬の友  【ちくばのとも】  childhood friend, old playmate
+  住友  【すみとも】  Sumitomo (company)
+
+  体  【からだ】  body, torso, trunk, build, physique, constitution, health, corpse, dead body
+  体つき  【からだつき】  body build, figure
+  御体  【おんからだ】  body of Christ (Eucharist)
+  形体  【なりかたち】  one's appearance
+
+  毛  【け】  hair, fur, wool, down, plumage, feathers
+  毛皮  【けがわ】  fur, skin, pelt, kanji "fur" radical
+  お毛々  【おけけ】  pubic hair
+  猫っ毛  【ねこっけ】  fine, soft hair
+
+  頭  【あたま】  head, hair (on one's head), mind, brains, intellect, leader, chief, boss, captain, top, tip, beginning, start, head, person, top structural component of a kanji, pair
+  頭打ち  【あたまうち】  reaching a peak, reaching the limit, plateauing, maxing out
+  石頭  【いしあたま】  hard-headed person, stubbornness, obstinacy, pigheadedness
+  ごま塩頭  【ごましおあたま】  salt and pepper hair, dark hair streaked with gray
+  頭  【あたま】  head, hair (on one's head), mind, brains, intellect, leader, chief, boss, captain, top, tip, beginning, start, head, person, top structural component of a kanji, pair
+  頭文字  【かしらもじ】  first letter of a word, capital letter (at the start of a word or sentence), initials (of one's name)
+  鯛の尾より鰯の頭  【たいのおよりいわしのかしら】  better be the head of a dog than the tail of a lion
+  め組の頭  【めぐみのかしら】  fire brigade chief (in Edo), chief fireman
+  頭  【こうべ】  head
+  頭を振る  【かぶりをふる】  to shake one's head (in denial)
+
+  顔  【かお】  face, visage, look, expression, countenance, honor, honour, face, influence, notoriety
+  顔つき  【かおつき】  (outward) looks, features, face, countenance, expression
+  いい顔  【いいかお】  big-shot, influential person, happy face, smiling face, sympathetic attitude
+  涼しい顔  【すずしいかお】  nonchalant air, unruffled air
+
+  首  【くび】  neck, head, dismissal, discharge, firing (from a job)
+  首飾り  【くびかざり】  necklace, choker
+  縛り首  【しばりくび】  (death by) hanging
+  猪首  【いくび】  bull neck
+
+  心  【こころ】  mind, heart, spirit, the meaning of a phrase (riddle, etc.)
+  心得る  【こころえる】  to know, to understand, to be aware of, to regard as, to take for, to consent, to agree
+  真心  【まごころ】  sincerity, true heart, devotion
+  我が心  【わがこころ】  my heart
+
+  時  【とき】  time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense
+  時々  【ときどき】  sometimes, at times
+  その時  【そのとき】  at that time, at that moment, then, on that occasion
+  切り替え時  【きりかえとき】  time to switch over, response time
+
+
+
+  朝  【あさ】  morning
+  朝ご飯  【あさごはん】  breakfast
+  後の朝  【のちのあした】  the morning after (having slept together)
+  霜朝  【しもあさ】  frosty morning
+
+  昼  【ひる】  noon, midday, daytime, lunch
+  昼間  【ひるま】  daytime, during the day, time from sunrise until sunset, diurnal period
+  小昼  【こひる】  just before noon, late-morning snack
+  夜昼  【よるひる】  day and night
+
+  夜  【よる】  evening, night
+  夜明け  【よあけ】  dawn, daybreak
+  毎夜  【まいよ】  every evening
+  短夜  【みじかよ】  short summer night
+  夜  【よる】  evening, night
+  夜遅く  【よるおそく】  late at night, at a late hour
+  御寝  【およる】  sleep, rest
+  冴えた夜  【さえたよる】  crisp and cold night
+
+  分ける  【わける】  to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell
+  分け  【わけ】  sharing, division, draw, tie
+  分ける  【わける】  to divide (into), to split (into), to part, to separate, to divide up, to classify, to sort out, to divide out, to share, to distribute, to deal out, to dish out, to distinguish, to discriminate, to differentiate (between), to break up (a fight), to mediate, to call a draw, to tie, to push one's way through (a crowd), to sell
+  申し訳  【もうしわけ】  apology, excuse
+  追分  【おいわけ】  forked road
+  分かれる  【わかれる】  to branch, to fork, to diverge, to separate, to split, to divide, to disperse, to scatter
+  分かる  【わかる】  to understand, to comprehend, to grasp, to see, to get, to follow, to become clear, to be known, to be discovered, to be realized, to be realised, to be found out
+  分かつ  【わかつ】  to divide, to separate, to share, to distribute, to distinguish
+
+
+
+  春  【はる】  spring, springtime, New Year, prime (of one's life, etc.), adolescence, puberty, sexuality
+  春先  【はるさき】  beginning of spring
+  初春  【しょしゅん】  beginning of spring, first month of the lunar calendar, New Year
+  小春  【こはる】  10th month of the lunisolar calendar (traditional first month of winter, approx. November), late autumn, late fall
+
+  夏  【なつ】  summer
+  夏休み  【なつやすみ】  summer vacation, summer holiday
+  初夏  【しょか】  early summer, fourth month of the lunar calendar
+  常夏  【とこなつ】  everlasting summer
+
+  秋  【あき】  autumn, fall
+  秋風  【あきかぜ】  autumn breeze, fall breeze
+  春秋  【しゅんじゅう】  spring and autumn, spring and fall, years, age, The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu
+  中秋  【ちゅうしゅう】  15th day of the 8th lunar month, eighth month of the lunar calendar
+  時  【とき】  time, hour, moment, occasion, case, chance, opportunity, season, the times, the age, the day, tense
+  危急存亡の秋  【ききゅうそんぼうのとき】  crisis, critical moment, critical time
+
+  冬  【ふゆ】  winter
+  冬場  【ふゆば】  the winter season
+  初冬  【しょとう】  early winter, tenth month of the lunar calendar
+  毎冬  【まいふゆ】  every winter
+
+  今  【いま】  now, the present time, just now, soon, immediately, (one) more
+  今に  【いまに】  before long, even now
+  中今  【なかいま】  the present (esp. as a privileged moment in eternity)
+  今が今  【いまがいま】  just now
+
+  新しい  【あたらしい】  new, novel, fresh, recent, latest, up-to-date, modern
+  新しいもの好き  【あたらしいものずき】  neophilia, love of new things
+  新た  【あらた】  new, fresh, novel
+  新田  【しんでん】  new rice field, newly developed rice field, wasteland or marshland newly reclaimed as a rice field (Edo period)
+
+  古い  【ふるい】  old (not person), aged, ancient, antiquated, stale, threadbare, outmoded, obsolete article
+  古家  【ふるいえ】  old house, deserted house
+
+  間  【あいだ】  space (between), gap, interval, distance, time (between), pause, break, span (temporal or spatial), stretch, period (while), relationship (between, among), members (within, among), due to, because of
+  間柄  【あいだがら】  relationship, relation, terms (good, friendly, etc.)
+  候間  【そうろうあいだ】  as ...
+  ついこの間  【ついこのあいだ】  just the other day, quite recently
+  間  【ま】  time, pause, space, room
+  間に合う  【まにあう】  to be in time for, to serve (suit, meet) the purpose, to be good enough, to be enough
+  客間  【きゃくま】  drawing room, parlor, parlour, guest room
+  つかの間  【つかのま】  moment, brief space of time
+  間  【あいだ】  space (between), gap, interval, distance, time (between), pause, break, span (temporal or spatial), stretch, period (while), relationship (between, among), members (within, among), due to, because of
+  間柄  【あいだがら】  relationship, relation, terms (good, friendly, etc.)
+  波間  【なみま】  interval between the waves, gap between waves
+  幕間  【まくあい】  intermission (between acts), interlude
+
+  方  【かた】  direction, way, person, lady, gentleman, method of, manner of, way of, care of ..., person in charge of ..., side (e.g. "on my mother's side")
+  方々  【かたがた】  they (of people), gentlemen (of the ...), you (usu. plural), various
+  味方  【みかた】  friend, ally, supporter, taking sides with, supporting, standing by, backing up
+  大方  【おおかた】  large part, greater part, majority, people in general, general public, public at large, mostly, for the most part, almost, nearly, probably, maybe, perhaps
+
+  北  【きた】  north, the North, northern territories, North Korea, north wind
+  北アイルランド  【きたアイルランド】  Northern Ireland
+  東北  【とうほく】  north-east, Tōhoku (northernmost six prefectures of Honshu), Tohoku
+  西北  【せいほく】  north-west
+
+  南  【みなみ】  south
+  南アフリカ  【みなみアフリカ】  South Africa
+  東南  【とうなん】  south-east
+  西南  【せいなん】  south-west
+
+  東  【ひがし】  east
+  東西  【とうざい】  east and west, Orient and Occident, East and West, Ladies and Gentlemen!, Your attention, please!, roll-up, roll-up
+
+  西  【にし】  west
+  西日  【にしび】  westering sun, setting sun
+  南西  【なんせい】  southwest
+  東は東西は西  【ひがしはひがしにしはにし】  East is East, and West is West
+
+  遠い  【とおい】  far, distant, far away, a long way off, in the distance, distant (past), remote (in time), remote, far-removed (in time), distant (relationship or kinship), having little to do (with someone), far (from something else in quality, degree, etc.), not similar, way off, hard (of hearing), nearsighted
+  遠い昔  【とおいむかし】  remote past, far ago, time immemorial
+
+  近い  【ちかい】  near, close, short (distance), close (in time), soon, close (relationship), friendly, intimate, closely related, similar, likeworthy, almost the same
+  近いうちに  【ちかいうちに】  before long
+
+  前  【まえ】  ago, before (some event), previously, (minutes) to (the hour), in front (of), before (e.g. the house), head (of a line), front (e.g. of a bus), fore part, in the presence of, helping, portion, privates, private parts
+  前売り  【まえうり】  advance sale, booking
+  昼前  【ひるまえ】  morning, forenoon, just before noon
+  一人前  【いちにんまえ】  one portion, one serving, one person, adult, grown-up, person who has come of age, fully fledged, established, qualified
+
+  後  【のち】  later, afterwards, since, future, after one's death, descendant
+  後ほど  【のちほど】  later on, eventually, afterwards
+  後々  【あとあと】  distant future
+  この後  【このあと】  after this, henceforth, henceforward, from now on
+  後ろ  【うしろ】  back, behind, rear
+  後ろ姿  【うしろすがた】  retreating figure, appearance from behind
+  後ろ  【うしろ】  back, behind, rear
+  後ろ姿  【うしろすがた】  retreating figure, appearance from behind
+  後  【あと】  behind, rear, after, later, after one's death, remainder, the rest, descendant, successor, heir, more (e.g. five more minutes), left, also, in addition, past, previous
+  後回し  【あとまわし】  putting off, postponing
+  亡き後  【なきあと】  after one's death
+  後々  【あとあと】  distant future
+  遅れる  【おくれる】  to be late, to be delayed, to fall behind schedule, to be overdue
+
+  内  【うち】  inside, within, while, among, amongst, between, we, our, my spouse, imperial palace grounds, emperor, I, me
+  内訳  【うちわけ】  itemization (of expenses), the items, breakdown, classification
+  お家  【おうち】  your home, your family, their home, their family, (my) home
+  幕内  【まくうち】  highest-ranking division
+
+  外  【そと】  outside, exterior, open air, other place
+  外国  【がいこく】  foreign country
+  家の外  【いえのそと】  outside the house
+  蚊帳の外  【かやのそと】  leaving out of an event, treating as an outsider, outside the mosquito net
+  他  【ほか】  other (place, thing, person), the rest, outside, beyond, nothing except, nothing but, nothing apart from, nothing aside from, no choice (but to), besides..., in addition to...
+  外人  【がいじん】  foreigner (esp. one of European ancestry), gaijin, outsider
+  この外  【このほか】  besides, moreover, in addition
+  思いのほか  【おもいのほか】  unexpectedly, surprisingly, unexpected
+  外す  【はずす】  to remove, to take off, to detach, to unfasten, to undo, to drop (e.g. from a team), to remove (from a position), to exclude, to expel, to leave (e.g. one's seat), to go away from, to step out, to slip away, to dodge (a question, blow, etc.), to evade, to sidestep, to avoid (e.g. peak season), to miss (a target, chance, punch, etc.)
+  外れる  【はずれる】  to be disconnected, to get out of place, to be off, to be out (e.g. of gear)
+
+  場  【ば】  place, spot, space, field, discipline, sphere, realm, occasion, situation, scene (of a play, movie, etc.), session (of the stock market), area in which cards are laid out (in a card game), round (i.e. east, south, etc.), field, field (gestalt psychology)
+  場合  【ばあい】  case, situation
+  立場  【たちば】  position, situation, viewpoint, standpoint, point of view
+  役場  【やくば】  town hall
+
+
+
+  国  【くに】  country, state, region, national government, central government, home (i.e. hometown, home country), province (of Japan), land, earth
+  国境  【こっきょう】  national border, provincial border
+  お国  【おくに】  your native country, your hometown, my home country (i.e. Japan), countryside, country, daimyo's territory (Edo period)
+  根堅州国  【ねのかたすくに】  underworld, netherworld
+
+  園  【その】  garden (esp. man-made), orchard, park, plantation, place, location
+  園生  【えんせい】  garden (esp. with trees), park
+  竹の園  【たけのその】  bamboo garden, Imperial family
+  学びの園  【まなびのその】  educational institution
+
+  谷  【たに】  valley
+  谷間  【たにま】  valley, ravine, chasm, dell, cleavage
+  不気味の谷  【ぶきみのたに】  uncanny valley (hypothesis about humanoid robots)
+  千仭の谷  【せんじんのたに】  bottomless ravine
+  極まる  【きわまる】  to reach an extreme, to reach a limit, to terminate, to come to an end, extremely, to be stuck, to be in a dilemma, to be at a loss, to be decided, to be settled
+
+  野  【の】  plain, field, hidden (structural) member, wild, lacking a political post
+  野原  【のはら】  field
+  裾野  【すその】  foot of a mountain, plain at the foot of a mountain, range, spread, extent, encompassing circle
+  郊野  【こうの】  suburban fields
+
+  原  【はら】  field, plain, prairie, tundra, moor, wilderness
+  原っぱ  【はらっぱ】  open field, empty lot, plain
+  草原  【そうげん】  grass-covered plain, grasslands, meadows, savannah, prairie, steppe
+  萩原  【はぎはら】  reedy field
+
+  里  【さと】  village, hamlet, countryside, country, home (of one's parents, etc.), hometown, one's origins, one's upbringing, one's past
+  里心  【さとごころ】  homesickness, nostalgia
+  お里  【おさと】  one's parents' home, one's origins, one's upbringing, one's past
+  夏山冬里  【なつやまふゆさと】  pasturing cattle in summer and feeding them indoors during winter, rotated grazing
+
+  市  【いち】  market, fair
+  市場  【いちば】  (town) market, (the) marketplace
+  骨董市  【こっとういち】  antique market, flea market
+  草市  【くさいち】  flower market during obon
+
+  都  【みやこ】  capital, metropolis, seat of government, capital (of music, fashion, etc.), city (e.g. of light), location of the Imperial Palace
+  長岡京  【ながおかきょう】  Nagaoka-kyō (capital of Japan 784-794)
+
+  風  【かぜ】  wind, breeze, draught, draft, manner, behaviour, behavior, cold, influenza
+  風邪  【かぜ】  common cold, cold, influenza, flu, ague
+  涼風  【りょうふう】  cool breeze, refreshing breeze
+  西風  【にしかぜ】  west wind
+
+  雪  【ゆき】  snow
+  雪国  【ゆきぐに】  snow country
+  細雪  【ささめゆき】  light snow fall, small snow flakes
+  粉雪  【こなゆき】  powdered snow
+
+  雲  【くも】  cloud
+  雲行き  【くもゆき】  weather, look of the sky, situation, turn of affairs, signs, way the wind is blowing
+  闇雲  【やみくも】  reckless, (at) random, haphazard, blind, sudden, abrupt
+  白雲  【しらくも】  white clouds
+
+  池  【いけ】  pond
+  池蝶貝  【いけちょうがい】  Hyriopsis schlegelii (species of freshwater mussel)
+  用水池  【ようすいいけ】  reservoir
+  人工池  【じんこういけ】  artificial pool
+
+  海  【うみ】  sea, ocean, waters
+  海路  【かいろ】  sea route
+  内海  【うちうみ】  inlet, bay, inland sea
+  血の海  【ちのうみ】  sea of blood, pool of blood
+
+  岩  【いわ】  rock, boulder, crag, cliff, anchor
+  岩戸  【いわと】  rock door (to a cave)
+  一枚岩  【いちまいいわ】  monolith, large slab of rock
+  浮岩  【うきいわ】  rock partially submerged in water, rock partially emerging from the water, pumice stone
+
+  星  【ほし】  star, any light-emitting (or reflecting) heavenly body (except for the sun and the moon), offender, perpetrator, star point (in go), hoshi, intersection marked with a dot, circular symbol (said to be shaped like a shining star), bullseye, one's star (out of the nine stars), the star that determines one's fate, small dot, spot, point, score
+  星空  【ほしぞら】  starry sky
+  四三の星  【しそうのほし】  the Big Dipper (asterism), the Plough, the Plow
+  希望の星  【きぼうのほし】  ray of light, ray of hope, promising talent
+
+  室  【むろ】  greenhouse, icehouse, cellar
+  室町  【むろまち】  Muromachi (era 1392-1573, or 1333-1573, or 1336-1573)
+  石室  【せきしつ】  stone hut, rock chamber, tomb, stone burial chamber
+  氷室  【こおりむろ】  ice house, ice room, cold room
+
+  戸  【と】  door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows
+  戸棚  【とだな】  cupboard, locker, closet, wardrobe, cabinet
+  鳴門  【なると】  strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto, city in NE Tokushima pref, Naruto Strait, Naruto wakame
+  引き戸  【ひきど】  sliding door
+
+  家  【いえ】  house, residence, dwelling, family, household, lineage, family name
+  家主  【やぬし】  landlord, landlady, house owner, home owner, head of the household
+  本家  【ほんけ】  head house (family), birthplace, originator
+  小家  【こいえ】  small and simple home
+  屋  【や】  (something) shop, somebody who sells (something) or works as (something), somebody with a (certain) personality trait, house, roof
+  家内  【かない】  (my) wife, inside the home, one's family
+  隠れ家  【かくれが】  hiding place, hideout, refuge, retreat, hideaway
+  長屋  【ながや】  tenement house, row house
+  家  【うち】  house, home (one's own), (one's) family, (one's) household
+  家中  【うちじゅう】  whole family, all (members of) the family, all over the house, retainer of a daimyo, feudal domain, clan
+  お家  【おうち】  your home, your family, their home, their family, (my) home
+
+  寺  【てら】  temple (Buddhist)
+  寺子屋  【てらこや】  temple elementary school (during the Edo period)
+  お寺  【おてら】  temple, monk
+  宮寺  【ぐうじ】  Buddhist temple within a Shinto shrine
+
+  通る  【とおる】  to go by, to go past, to go along, to travel along, to pass through, to use (a road), to take (a route), to go via, to go by way of, to run (between), to operate (between), to connect, to go indoors, to go into a room, to be admitted, to be shown in, to be ushered in, to come in, to penetrate, to pierce, to skewer, to go through, to come through, to permeate, to soak into, to spread throughout, to carry (e.g. of a voice), to reach far, to be passed on (e.g. of a customer's order to the kitchen), to be relayed, to be conveyed, to pass (a test, a bill in the House, etc.), to be approved, to be accepted, to go by (a name), to be known as, to be accepted as, to have a reputation for, to be coherent, to be logical, to be reasonable, to be comprehensible, to be understandable, to make sense, to get across (e.g. of one's point), to be understood, to be straight (e.g. wood grain), to be well-informed, to be wise, to do ... completely, to do ... thoroughly
+  通り  【とおり】  avenue, street, way, road, coming and going, street traffic, flow (of water, air, etc.), transmission (of sound), reach (e.g. of voice), fame, reputation, popularity, the same status or way, as (e.g. as expected, as I said), understanding, comprehension, counter for sets of things, counter for methods, ways, types
+  通り過ぎる  【とおりすぎる】  to go past, to pass, to pass by
+  通す  【とおす】  to stick through, to force through, to spread throughout, to thoroughly diffuse, to make a path between two points, to proceed in a logical manner, to let pass, to allow through, to lead (someone) into (a house, room, etc.), to show in, to go through (a middleman), to (look, listen) through (a window, wall, etc.), to pass (a law, applicant, etc.), to force to accept, to force agreement, to continue (in a state), to persist in, to do to the entirety of, to cover all of, to span the whole ..., to do from beginning to end without a break, to convey (one's ideas, etc.) to the other party, to do to the end, to carry through, to complete
+  通し  【とおし】  direct, right through, straight, appetizer, appetiser, performance of an entire play
+  通し切符  【とおしきっぷ】  through ticket (e.g. rail, air), ticket good for multiple performances (e.g. both matinee and evening shows), all-day ticket, season ticket
+  切通し  【きりどおし】  (railway) cutting, excavation, sunken road, opencut
+  通う  【かよう】  to go to and from (a place), to go back and forth between, to run between (e.g. bus, train, etc.), to ply between, to go to (school, work, etc.), to attend, to commute, to frequent, to circulate (e.g. blood, electricity), to be communicated (e.g. thought), to resemble
+
+  門  【もん】  gate, branch of learning based on the teachings of a single master, division, phylum, counter for cannons
+  門出  【かどで】  leaving one's own house (e.g. when going to war), departure, setting out, starting a new life, starting life anew
+  帝  【みかど】  emperor (of Japan), mikado, (the gates of an) imperial residence
+  戸  【と】  door (esp. Japanese-style), shutter, window shutter, entrance (to a home), narrows
+  門浪  【となみ】  waves in narrow straits
+  鳴門  【なると】  strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto, city in NE Tokushima pref, Naruto Strait, Naruto wakame
+  顎門  【あぎと】  chin, jaw, gills, branchia
+
+  道  【みち】  road, street, way, path, course, route, lane, distance, ways (e.g. "a long ways"), the way (of proper conduct, etc.), one's way, morals, teachings (esp. Confucian or Buddhist), dogma, field (of medicine, etc.), subject, way, method, means
+  道順  【みちじゅん】  itinerary, route
+  寄り道  【よりみち】  dropping in on the way, stopping off at, making a side trip, going the long way round, making a detour
+  筋道  【すじみち】  reason, logic, method, system, order, thread (e.g. of an argument)
+
+  話す  【はなす】  to talk, to speak, to converse, to chat, to tell, to explain, to narrate, to mention, to describe, to discuss, to speak (a language)
+  話  【はなし】  talk, speech, chat, story, conversation, discussions, negotiation, argument
+  話し合う  【はなしあう】  to discuss, to talk together
+  お話  【おはなし】  story, tale
+  いい話  【いいはなし】  good story (e.g. heartwarming), good prospect (e.g. marriage, business)
+
+  言う  【いう】  to say, to utter, to declare, to name, to call, to go (e.g. "the alarm went ping"), to make a noise
+  言うまでもない  【いうまでもない】  it goes without saying, there is no need to say so, but of course, it is needless to say, it need scarcely be said
+  言  【げん】  word, remark, statement
+  言葉  【ことば】  language, dialect, word, words, phrase, term, expression, remark, speech, (manner of) speaking
+  戯言  【たわごと】  nonsense, silly talk, drivel, rubbish
+  伝言  【つてこと】  verbal message, word, rumour, rumor
+
+  答える  【こたえる】  to answer, to reply
+  答え  【こたえ】  answer, reply, response, solution
+  答える  【こたえる】  to answer, to reply
+
+  声  【こえ】  voice
+  声が枯れる  【こえがかれる】  to become hoarse
+  一声  【いっせい】  voice, cry, shout
+  険しい声  【けわしいこえ】  sharp voice
+
+  聞く  【きく】  to hear, to listen (e.g. to music), to ask, to enquire, to query, to learn of, to hear about, to follow (advice), to comply with, to smell (esp. incense), to sample fragrance
+  聞く耳を持たない  【きくみみをもたない】  to turn a deaf ear to, to not listen to, to not get the message
+  聞こえる  【きこえる】  to be heard, to be audible, to be said to be, to be reputed
+
+  語る  【かたる】  to talk about, to speak of, to tell, to narrate, to recite, to chant, to indicate, to show
+  語るに落ちる  【かたるにおちる】  to let slip a secret, to let the cat out of the bag
+  語らう  【かたらう】  to talk, to tell, to recite, to pledge, to conspire with
+  語らうに友無く  【かたらうにともなく】  with no friend to talk to
+
+  読む  【よむ】  to read, to count, to guess, to predict, to read (someone's thoughts), to see (e.g. into someone's heart), to divine
+
+  書く  【かく】  to write, to compose, to pen, to draw, to paint
+
+  記す  【しるす】  to write down, to note, to jot down, to remember
+
+  紙  【かみ】  paper
+  紙屑  【かみくず】  wastepaper, paper scraps, paper waste
+  インディア紙  【インディアかみ】  India paper
+  蝋紙  【ろうかみ】  wax paper
+
+  描く  【えがく】  to draw, to paint, to sketch, to depict, to describe, to picture in one's mind, to imagine, to form a certain shape (e.g. path of an action, appearance of an object, etc.)
+  画する  【かくする】  to draw (a line), to demarcate, to mark, to divide, to map out, to plan
+
+
+
+  図る  【はかる】  to plan, to attempt, to devise, to plot, to conspire, to scheme, to aim for, to strive for, to work towards, to seek, to deceive, to trick, to take in
+
+
+
+  教える  【おしえる】  to teach, to instruct, to tell, to inform, to preach
+  教わる  【おそわる】  to be taught (by), to learn from
+
+  晴れる  【はれる】  to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished
+  晴れ  【はれ】  clear weather, fine weather, formal, ceremonial, public, cleared of suspicion
+  晴れる  【はれる】  to clear up, to clear away, to be sunny, to stop raining, to refresh (e.g. spirits), to be cleared (e.g. of a suspicion), to be dispelled, to be banished
+  晴らす  【はらす】  to dispel, to clear away, to refresh (oneself), to accomplish a goal, to make it sunny, to make clouds disappear
+
+  思う  【おもう】  to think, to consider, to believe, to think (of doing), to plan (to do), to judge, to assess, to regard, to imagine, to suppose, to dream, to expect, to look forward to, to feel, to desire, to want, to recall, to remember
+  思う存分  【おもうぞんぶん】  to one's heart's content
+
+  考える  【かんがえる】  to think about, to take into consideration, to ponder, to reflect, to try to come at a conclusion, to think over (something), to intend, to decide (to do), to plan, to come up with, to devise, to scheme, to predict, to anticipate, to expect, to suspect, to doubt, to consider (somebody to be something), to look on
+  考え  【かんがえ】  thinking, thought, view, opinion, concept, idea, notion, imagination, intention, plan, design, consideration, judgement, deliberation, reflection, wish, hope, expectation
+  考える  【かんがえる】  to think about, to take into consideration, to ponder, to reflect, to try to come at a conclusion, to think over (something), to intend, to decide (to do), to plan, to come up with, to devise, to scheme, to predict, to anticipate, to expect, to suspect, to doubt, to consider (somebody to be something), to look on
+
+  知る  【しる】  to be aware of, to know, to be conscious of, to cognize, to cognise, to notice, to feel, to understand, to comprehend, to grasp, to remember, to be acquainted with (a procedure), to experience, to go through, to learn, to be acquainted with (a person), to get to know, to concern
+  知る限り  【しるかぎり】  as far as I know
+  吾唯足知  【われただたるをしる】  I am content with what I am (have), Rich is the person who is content with what he is
+  知らせる  【しらせる】  to notify, to advise, to inform
+
+
+
+  理  【ことわり】  reason, logic, sense, natural way of things
+
+  算盤  【そろばん】  abacus
+  算盤勘定  【そろばんかんじょう】  counting on the abacus, cost-benefit calculation, profit calculation
+  電算  【でんそろ】  electronic calculator combined with a soroban
+
+  作る  【つくる】  to make, to produce, to manufacture, to build, to construct, to prepare (food), to brew (alcohol), to raise, to grow, to cultivate, to train, to till, to draw up (a document), to make out, to prepare, to write, to create (an artistic work, etc.), to compose, to coin (a phrase), to organize, to organise, to establish, to found, to have (a child), to make up (one's face, etc.), to fabricate (an excuse, etc.), to form (a line, etc.), to set (a record), to commit (a sin, etc.)
+  作り  【つくり】  making, producing, manufacturing, building, construction, make, structure, appearance (i.e. attire, make-up), build (i.e. physique), sashimi, forced (smile, etc.)
+  作り上げる  【つくりあげる】  to build up, to complete, to construct, to create, to put together, to make up, to fabricate, to invent, to cook up
+
+  元  【もと】  origin, source, base, basis, foundation, root, cause, ingredient, material, (somebody's) side, (somebody's) location, original cost (or capital, principal, etc.), (plant) root, (tree) trunk, first section of a waka, counter for blades of grass, tree trunks, etc., and for falcons (in falconry), handle (chopsticks, brush, etc.), grip
+  元  【もと】  former, ex-, past, one-time
+  耳元  【みみもと】  close to the ear
+  家元  【いえもと】  head of a school (of music, dance), head family of a school
+
+  食う  【くう】  to eat, to live, to make a living, to survive, to bite, to sting (as insects do), to tease, to torment, to taunt, to make light of, to make fun of, to encroach on, to eat into, to consume, to defeat a superior, to threaten a position, to consume time and-or resources, to receive something (usu. an unfavourable event), to have sexual relations with a woman, esp. for the first time
+  食うや食わず  【くうやくわず】  (living) from hand to mouth, living on the fringe of subsistance
+  食らう  【くらう】  to eat, to drink, to receive (e.g. a blow)
+  食べる  【たべる】  to eat, to live on (e.g. a salary), to live off, to subsist on
+  食む  【はむ】  to eat (fodder, grass, etc.), to receive (a salary), to receive a stipend from one's lord
+
+  肉  【にく】  flesh, meat, the physical body (as opposed to the spirit), thickness, ink pad
+  肉合い  【ししあい】  fleshiness, plumpness
+  鹿  【かのしし】  deer meat, deer
+
+  馬  【うま】  horse, horse racing, promoted bishop
+  馬が合う  【うまがあう】  to get on well (with a person), to be a good match with one's horse (e.g. of a rider)
+  白馬  【はくば】  white horse, unrefined sake
+  干し草を付けた馬  【ほしくさをつけたうま】  horse loaded with hay
+  馬尼剌  【マニラ】  Manila
+  馬子にも衣装  【まごにもいしょう】  anybody can look good with the right clothes, clothes make the man, fine feathers make fine birds, clothes on a packhorse driver
+  白馬  【はくば】  white horse, unrefined sake
+  干し草を付けた馬  【ほしくさをつけたうま】  horse loaded with hay
+
+  牛  【うし】  cattle (Bos taurus), cow, bull, ox, calf, beef, Chinese "Ox" constellation (one of the 28 mansions)
+  牛車  【ぎゅうしゃ】  ox carriage (for Heian era nobles), oxcart
+  去勢牛  【きょせいうし】  ox, bullock
+  麝香牛  【じゃこううし】  muskox (Ovibos moschatus), musk ox
+
+  魚  【さかな】  fish
+  魚市場  【うおいちば】  fish market
+  生魚  【せいぎょ】  raw fish, fresh fish
+  活魚  【かつぎょ】  live fish and shellfish (kept in a tank in a restaurant)
+  魚  【さかな】  fish
+  魚釣り  【さかなつり】  fishing
+  焼き立ての魚  【やきたてのさかな】  fish hot from the oven
+  旬の魚  【しゅんのさかな】  fish in season
+
+  鳥  【とり】  bird, bird meat (esp. chicken meat), fowl, poultry
+  鳥居  【とりい】  torii, Shinto shrine archway
+  焼き鳥  【やきとり】  yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer, grilled and skewered bird (esp. sparrow), failing to win a single hand during a half-game
+  花鶏  【あとり】  brambling (bird) (Fringilla montifringilla)
+
+  羽  【はね】  feather, plume, down, wing, blade (of a fan, propeller, etc.), shuttlecock, arrow feathers
+  羽目  【はめ】  panel, wainscoting, wainscotting, plight, fix, bind, awkward situation, difficult situation, mess
+  白羽  【しらは】  white feather
+  切り羽  【きりは】  face (of a wall of coal or ore, etc.), working face (of a mine)
+  羽  【わ】  counter for birds and rabbits
+  羽  【はね】  feather, plume, down, wing, blade (of a fan, propeller, etc.), shuttlecock, arrow feathers
+  羽蟻  【はあり】  winged ant, flying ant
+
+  鳴く  【なく】  to sing (bird), to make sound (animal), to call, to cry, to chirp, to make a meld call (e.g. pung, kong)
+  鳴く蝉よりも鳴かぬ蛍が身を焦がす  【なくせみよりもなかぬほたるがみをこがす】  empty vessels make the most noise, the silent firefly burns with more passion than the crying cicada
+  鳴る  【なる】  to sound, to ring, to resound, to echo, to roar, to rumble
+  鳴門  【なると】  strait with a roaring tidal ebb and flow, whirlpool, maelstrom, kamaboko with a spiral whirlpool-like pattern, cooking technique where ingredients are cut in a spiral pattern, Naruto, city in NE Tokushima pref, Naruto Strait, Naruto wakame
+  鳴らす  【ならす】  to ring, to sound, to chime, to beat, to snort (nose), to snap (fingers), to be popular, to be esteemed, to be reputed, to state, to insist, to complain, to fart (loudly)
+
+  麦  【むぎ】  wheat, barley, oat (oats)
+  麦茶  【むぎちゃ】  barley tea
+  はだか麦  【はだかむぎ】  naked barley (Hordeum vulgare var. nudum)
+  毒麦  【どくむぎ】  darnel (Lolium temulentum)
+
+  米  【こめ】  (husked grains of) rice, 88 years old
+  米屋  【こめや】  rice shop, rice dealer
+  お米  【おこめ】  (husked grains of) rice
+  アルボリオ米  【アルボリオこめ】  arborio rice (Italian variety)
+  米  【こめ】  (husked grains of) rice, 88 years old
+  米沢牛  【よねざわぎゅう】  Yonezawa beef
+
+
+
+  色  【いろ】  colour, color, hue, tint, tinge, shade, complexion, skin colour, skin color, look (on one's face), expression, appearance, air, feeling, personality, character, tone (of one's voice, etc.), tune, sound, ring, love, lust, sensuality, love affair, lover, paramour, beauty, sexiness, physical appeal, kind, type, variety
+  色々  【いろいろ】  various, all sorts of, variety of, various colors (colours)
+  色々  【いろいろ】  various, all sorts of, variety of, various colors (colours)
+  音色  【ねいろ】  tone color, tone colour, tone quality, timbre
+
+  黄  【き】  yellow
+  黄色  【きいろ】  yellow, amber
+  海気  【かいき】  sea air, sea breeze, ocean and atmosphere, type of yarn-dyed silk goods
+
+  黒  【くろ】  black, black go stone, guilt, guilty person
+  黒い  【くろい】  black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky
+  黒ずむ  【くろずむ】  to blacken, to darken
+  黒い  【くろい】  black, dark, blackish, sun-tanned (skin), suspicious, criminal, illicit, darkened and dirty, sooty, covered in dirt, evil, wicked, black-hearted, inauspicious, ill-boding, unlucky
+  黒い霧  【くろいきり】  thick fog (of suspicion), black veil of secrecy, covered-up crime, unethical act, etc.
+
+  来る  【くる】  to come (spatially or temporally), to approach, to arrive, to come back, to do ... and come back, to come to be, to become, to get, to grow, to continue, to come from, to be caused by, to derive from, to come to (i.e. "when it comes to spinach ...")
+  来る日も来る日も  【くるひもくるひも】  day after day, day in and day out, every single day
+  来る  【きたる】  next (e.g. "next April"), forthcoming, coming, to come, to arrive, to be due to
+  来るべき  【きたるべき】  expected to arrive (occur) in the near future
+  来す  【きたす】  to cause, to induce, to bring about a result or state, to produce
+  来す  【きたす】  to cause, to induce, to bring about a result or state, to produce
+  来る  【きたる】  next (e.g. "next April"), forthcoming, coming, to come, to arrive, to be due to
+  来るべき  【きたるべき】  expected to arrive (occur) in the near future
+  来す  【きたす】  to cause, to induce, to bring about a result or state, to produce
+  来次第  【きしだい】  as soon as (he, she, it) comes
+  上出来  【じょうでき】  good performance, good work, great success
+  不出来  【ふでき】  bad job, poor workmanship, bungle
+  来い  【こい】  come!, imperative form of the verb "kuru" ("to come"), expressing a command or strong request
+  来し方  【きしかた】  the past
+
+  行く  【いく】  to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach, to proceed, to take place, to pass through, to come and go, to walk, to die, to pass away, to do (in a specific way), to stream, to flow, to continue, to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination
+  行く先  【ゆくさき】  destination, whereabouts, future, prospects
+  行く  【いく】  to go, to move (in a direction or towards a specific location), to head (towards), to be transported (towards), to reach, to proceed, to take place, to pass through, to come and go, to walk, to die, to pass away, to do (in a specific way), to stream, to flow, to continue, to have an orgasm, to come, to cum, to trip, to get high, to have a drug-induced hallucination
+  行方  【ゆくえ】  (one's) whereabouts, outcome
+  行う  【おこなう】  to perform, to do, to conduct oneself, to carry out
+  行う  【おこなう】  to perform, to do, to conduct oneself, to carry out
+
+  帰る  【かえる】  to return, to come home, to go home, to go back, to leave, to get home, to get to home plate
+  帰す  【かえす】  to send (someone) back, to send (someone) home
+
+  歩く  【あるく】  to walk
+  歩む  【あゆむ】  to walk, to go on foot
+
+  走る  【はしる】  to run, to travel (movement of vehicles), to drive, to flow (e.g. energy), to hurry to, to retreat (from battle), to take flight, to run away from home, to elope, to tend heavily toward, to flash, to streak, to shoot through (e.g. pain)
+
+  止まる  【とまる】  to stop (moving), to come to a stop, to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended, to alight, to perch on
+  止める  【とめる】  to stop, to turn off, to park, to prevent, to suppress (a cough), to hold back (tears), to hold (one's breath), to relieve (pain), to stop (someone from doing something), to dissuade, to forbid, to prohibit, to notice, to be aware of, to concentrate on, to pay attention to, to remember, to bear in mind, to fix (in place), to fasten, to tack, to pin, to nail, to button, to staple, to detain, to keep in custody
+  留める  【とどめる】  to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain
+  止め  【とどめ】  finishing blow, clincher
+  留める  【とどめる】  to stop, to stay (e.g. the night), to cease, to put an end to, to contain, to keep (in position, in place), to limit, to record (e.g. a fact), to retain
+  止まる  【とどまる】  to remain, to abide, to stay (in the one place), to be limited to, to be confined to
+  とどまるところを知らない  【とどまるところをしらない】  knowing no bounds, showing no signs of stopping or slowing down
+  止める  【やめる】  to stop (an activity), to cease, to discontinue, to end, to quit, to cancel, to abandon, to give up, to abolish, to abstain, to refrain
+  止む  【やむ】  to cease, to stop, to be over
+  やむを得ない  【やむをえない】  cannot be helped, unavoidable
+  止す  【よす】  to cease, to desist, to cut it out, to lay off (an activity), to drop (a subject) to abolish, to resign, to give up
+
+  生きる  【いきる】  to live, to exist, to make a living, to subsist, to be in effect, to be in use, to function, to come to life, to be enlivened, to be safe (in baseball, go, etc.)
+  生かす  【いかす】  to make (the best) use of, to leverage (skills, attributes, experience, etc.), to capitalise on (experience, etc), to let live, to keep alive, to revive, to resuscitate
+  生ける  【いける】  to arrange (flowers), to plant, living, live
+
+  店  【みせ】  store, shop, establishment, restaurant
+  店先  【みせさき】  storefront, shopfront
+  酒店  【さかだな】  alcohol-selling shop
+  茶店  【さてん】  tea house
+  店  【たな】  merchant's home, rented home, store, shop
+  店子  【たなこ】  tenant (esp. in contrast to a landlord), renter
+  お店  【おたな】  merchant's home (esp. used by apprentices, etc.), (your) rental home
+
+  買う  【かう】  to buy, to purchase, to value, to have a high opinion, to stir, to provoke
+
+  売る  【うる】  to sell
+  売れる  【うれる】  to sell (well), to be well known, to be popular, to be famous
+
+  午  【うま】  seventh sign of Chinese zodiac (The Horse, 11am-1pm, south, May)
+  午年  【うまどし】  year of the horse
+  庚午  【かのえうま】  seventh of the sexagenary cycle
+  甲午  【きのえうま】  31st of the sexagenary cycle
+
+
+
+  弓  【ゆみ】  bow (and arrow), archery, bow (for a violin, etc.)
+  弓なり  【ゆみなり】  bow shape, arc, arch, segment (of a circle)
+  大弓  【だいきゅう】  bow, longbow
+  上げ弓  【あげゆみ】  up-bow (technique used when playing a string instrument)
+
+  回る  【まわる】  to turn, to revolve, to visit several places, to function well, to pass a certain time
+  回す  【まわす】  to turn, to rotate, to gyrate, to circulate, to send around, to surround, to put something to a new use (e.g. leftovers), ... around (e.g. to chase someone around), to dial (e.g. telephone number), to invest, to gang-rape
+  回る  【もとおる】  to wander around
+
+  会う  【あう】  to meet, to encounter, to see, to have an accident, to have a bad experience
+  会う約束  【あうやくそく】  appointment, rendezvous, date
+  会わせる  【あわせる】  to make (someone) to meet, to let (someone) meet, to expose to, to subject to
+
+  組む  【くむ】  to cross (legs or arms), to link (arms), to put together, to construct, to assemble, to produce (e.g. TV program), to braid, to plait, to grapple, to wrestle, to unite, to join, to link up, to form an alliance, to set (e.g. type), to issue (e.g. money order)
+  組  【くみ】  set (of items), group (of people), class (of students), company (esp. construction), family (i.e. mafia), team, typesetting, composition
+  組合  【くみあい】  association, union, guild
+  労組  【ろうそ】  labor union, labour union, trade union
+  １０個１組  【じっこひとくみ】  decade
+
+  船  【ふね】  ship, boat, watercraft, vessel, steamship, tank, tub, vat, trough, counter for boat-shaped containers (e.g. of sashimi)
+  船貝  【ふねがい】  Arca avellana (species of ark shell)
+  大船  【おおぶね】  large boat
+  釣り船  【つりぶね】  fishing boat
+
+  明かり  【あかり】  light, illumination, glow, gleam, lamp, light
+  明かり窓  【あかりまど】  transom, skylight, dormer window
+  明るい  【あかるい】  light, well-lit, well-lighted, bright (of a colour), brightly-coloured, brightly-colored, cheerful, bright, spirited, sunny (e.g. disposition), encouraging (for the future of a project, etc.), promising, of fair prospects, familiar (with), knowledgeable (about), well versed (in), fair (e.g. politics), clean, impartial
+  明るむ  【あかるむ】  to brighten, to grow light
+  明らむ  【あからむ】  to become luminous at dawn (esp. the sky)
+  明らか  【あきらか】  obvious, evident, clear, plain
+  明らかにする  【あきらかにする】  to make clear, to clarify, to disclose, to make public
+  開ける  【あける】  to open (a door, etc.), to unwrap (e.g. parcel, package), to unlock, to open (for business, etc.), to empty, to remove, to make space, to make room, to move out, to clear out, to be away from (e.g. one's house), to leave (temporarily), to dawn, to grow light, to end (of a period, season), to begin (of the New Year), to leave (one's schedule) open, to make time (for), to make (a hole), to open up (a hole)
+  開く  【あく】  to open (e.g. doors), to open (e.g. business, etc.), to be empty, to be vacant, to be available, to be free, to be open (e.g. neckline, etc.), to have been opened (of one's eyes, mouth, etc.), to come to an end, to open (one's eyes, mouth, etc.), to have a hole, to form a gap, to have an interval (between events)
+  明くる  【あくる】  next, following
+  明くる  【あくる】  next, following
+  明くる日  【あくるひ】  next day, following day
+  明かす  【あかす】  to pass (the night), to spend, to reveal, to divulge, to disclose, to expose, to prove, to verify
+
+  社  【やしろ】  shrine (usually Shinto)
+  大社  【たいしゃ】  grand shrine, famous shrine, Izumo Grand Shrine
+  村のお社  【むらのおやしろ】  village shrine
+
+  切る  【きる】  to cut, to cut through, to perform (surgery), to sever (connections, ties), to turn off (e.g. the light), to terminate (e.g. a conversation), to hang up (the phone), to disconnect, to punch (a ticket), to tear off (a stub), to open (something sealed), to start, to set (a limit), to do (something) in less or within a certain time, to issue (stamps, vouchers, etc.), to reduce, to decrease, to discount, to shake off (water, etc.), to let drip-dry, to let drain, to cross, to traverse, to criticize sharply, to act decisively, to do (something noticeable), to go first, to make (certain facial expressions, in kabuki), to turn (a vehicle), to curl (a ball), to bend, to cut, to shuffle (cards), to discard a tile, to dismiss, to sack, to let go, to expulse, to excommunicate, to dig (a groove), to cut (a stencil, on a mimeograph), to trump, to cut (the connection between two groups) (in go), to start a fire (with wood-wood friction or by striking a metal against stone), to draw (a shape) in the air (with a sword, etc.), to finish, to complete
+  切り  【きり】  end, finish, stop, bounds, limits, delivery date (of a futures contract), finale (of a noh song), end of an act (in jōruri or kabuki), final performance of the day (in vaudeville), counter for slices (esp. thick slices), counter for cuts (e.g. fish, meat), only, just, since, after, remaining (in a particular state)
+  切り抜き  【きりぬき】  clipping (of newspaper article, etc.), cutting, scrap (for a scrapbook), cut-out (picture, coloured paper, etc.)
+  踏切  【ふみきり】  railway crossing, railroad crossing, train crossing, level crossing, starting line, scratch, determination, stepping over the edge of the ring
+  爪切り  【つめきり】  nail clippers
+  切れる  【きれる】  to break, to snap, to be cut, to split, to crack, to be injured, to wear out, to be worn out, to break, to burst, to collapse, to wear off, to stop working, to go dead, to expire (time limit, etc.), to run out, to become due, to run out (of stock, etc.), to be exhausted, to be used up, to be sold out, to be out of, to be broken off (e.g. of a relationship), to break up, to have severed ties, to be cut off, to be disconnected, to cut well, to be sharp, to be sharp-minded, to be keen, to be shrewd, to be quick-witted, to be able, to be short of, to drop under (a certain figure), to beat (e.g. a record time), to dry off, to curve, to veer, to shuffle (cards), to get angry, to snap, to blow one's top, to lose one's temper, to flip, to be able to do completely
+  切れ  【きれ】  piece, slice, strip, scrap, cloth, sharpness, counter for scraps, pieces, etc.
+  切れる  【きれる】  to break, to snap, to be cut, to split, to crack, to be injured, to wear out, to be worn out, to break, to burst, to collapse, to wear off, to stop working, to go dead, to expire (time limit, etc.), to run out, to become due, to run out (of stock, etc.), to be exhausted, to be used up, to be sold out, to be out of, to be broken off (e.g. of a relationship), to break up, to have severed ties, to be cut off, to be disconnected, to cut well, to be sharp, to be sharp-minded, to be keen, to be shrewd, to be quick-witted, to be able, to be short of, to drop under (a certain figure), to beat (e.g. a record time), to dry off, to curve, to veer, to shuffle (cards), to get angry, to snap, to blow one's top, to lose one's temper, to flip, to be able to do completely
+  布切れ  【ぬのぎれ】  piece of cloth
+
+
+
+  毎  【ごと】  each, every
+  毎に  【ごとに】  one by one, each, every, at intervals of
+  月ごと  【つきごと】  monthly
+  戸ごと  【こごと】  from door to door
+
+  合う  【あう】  to come together, to merge, to unite, to meet, to fit, to match, to suit, to agree with, to be correct, to be profitable, to be equitable, to do ... to each other, to do ... together
+  合い  【あい】  between-season wear, spring and autumn clothing, spring and fall clothing, together, condition, situation, state, -ish
+  合図  【あいず】  sign, signal, cue
+  具合  【ぐあい】  condition, state, health, state (of health), way, manner, circumstance, luck, face, dignity, decency, propriety
+  意味合い  【いみあい】  implication, nuance, shade of meaning, connotation
+  合わす  【あわす】  to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight
+  合わせる  【あわせる】  to match (rhythm, speed, etc.), to join together, to unite, to combine, to add up, to face, to be opposite (someone), to compare, to check with, to cause to meet (e.g. an unpleasant fate), to place together, to connect, to overlap, to mix, to combine, to put blade to blade, to fight
+  合わせる顔がない  【あわせるかおがない】  too ashamed to meet, having no face to meet
+
+  当たる  【あたる】  to be hit, to strike, to touch, to be in contact, to be affixed, to be equivalent to, to be applicable, to apply to, to be right on the money (of a prediction, criticism, etc.), to be selected (in a lottery, etc.), to win, to be successful, to go well, to be a hit, to face, to confront, to lie (in the direction of), to undertake, to be assigned, to be stricken (by food poisoning, heat, etc.), to be afflicted, to be called upon (by the teacher), to treat (esp. harshly), to lash out at, to be unnecessary, to be hitting well, to be on a hitting streak, (in fishing) to feel a bite, (of fruit, etc.) to be bruised, to spoil, to feel (something) out, to probe into, to check (i.e. by comparison), to shave, to be a relative of a person, to stand in a relationship
+  当たり  【あたり】  hit, success, guess, prediction, affability, friendliness, sensation, touch, bruise (on fruit), situation in which a stone or chain of stones may be captured on the next move (in the game of go), bite (of a fish on a hook), strike, per, each
+  当たり前  【あたりまえ】  natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm
+  当てる  【あてる】  to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)
+  当て  【あて】  aim, object, purpose, end, expectations, prospects, hopes, something that can be relied upon, snack served with alcoholic drink, pad, guard, blow, strike, addressed to, per
+  当てる  【あてる】  to hit, to expose, to apply (e.g. patch), to put on, to put against, to hold on, to hold against, to allot, to call on someone (e.g. in class), to guess (an answer), to make a hit (e.g. in a lottery)
+  引き当て  【ひきあて】  mortgage, security
+  胴当て  【どうあて】  slip-guard (on one side of the body of a shamisen)
+  正に  【まさに】  exactly, surely, certainly, right then, just then, at that moment, just (about to), on the verge (of doing or happening), duly, naturally
+
+  台  【うてな】  tower, stand, pedestal, calyx
+  弾正台  【だんじょうだい】  Imperial Prosecuting and Investigating Office (1869-1871 CE), Imperial Prosecuting and Investigating Office (under the ritsuryo system)
+
+  楽しい  【たのしい】  enjoyable, fun, pleasant, happy, delightful
+  楽しい思い出  【たのしいおもいで】  happy memory, sweet memory
+  楽しむ  【たのしむ】  to enjoy (oneself)
+
+  公  【おおやけ】  official, governmental, formal, public (use, facility, etc.), common, public (matter, place, etc.), (out in the) open
+  公にする  【おおやけにする】  to make public
+
+  引く  【ひく】  to pull, to tug, to lead (e.g. a horse), to draw (attention, sympathy, etc.), to attract (e.g. interest), to draw back (e.g. one's hand), to draw in (one's chin, stomach, etc.), to pull in, to draw (a card, mahjong tile, etc.), to draw (a line, plan, etc.), to catch (a cold), to play (a stringed or keyboard instrument), to look up (e.g. a dictionary), to consult, to haul, to pull (vehicles), to subtract, to deduct, to recede, to ebb, to fade, to be descend from, to inherit (a characteristic), to quote, to cite, to raise (as evidence), to lay on (electricity, gas, etc.), to install (e.g. a telephone), to supply (e.g. water), to hold (e.g. a note), to apply (e.g. lipstick), to oil (e.g. a pan), to wax (e.g. a floor), to move back, to draw back, to recede, to lessen, to subside, to ebb, to resign, to retire, to quit
+  引く手  【ひくて】  admirer, inducer
+  引き  【ひき】  pull, patronage, influence, tug, discount
+  引っ越す  【ひっこす】  to move (house), to change residence
+  駆け引き  【かけひき】  bargaining, haggling, tactics, strategy
+  代引き  【だいびき】  cash on delivery, COD
+  引ける  【ひける】  to close, to be over, to break up (e.g. school), to lose one's nerve, to feel daunted
+
+
+
+  歌  【うた】  song, classical Japanese poetry (esp. tanka), modern poetry
+  歌う  【うたう】  to sing, to sing (one's praises in a poem, etc.), to compose a poem, to recite a poem
+  子守唄  【こもりうた】  lullaby
+  短歌  【たんか】  tanka, 31-mora Japanese poem
+  歌う  【うたう】  to sing, to sing (one's praises in a poem, etc.), to compose a poem, to recite a poem
+  歌うたい  【うたうたい】  singer, vocalist, nagauta singer (in kabuki), singer of Noh chants
+
+  刀  【かたな】  (single-edged) sword, katana, dagger, knife, scalpel, chisel, burin, graver, knife money, knife-shaped commodity money used in Zhou dynasty China
+  刀折れ矢尽きて  【かたなおれやつきて】  having exhausted every available means, having broken one's sword and exhausted one's arrows
+  一刀  【いっとう】  sword, blade, single stroke
+  剃刀  【かみそり】  razor
+  オッカムの剃刀  【オッカムのかみそり】  Occam's razor, Ockham's razor
+
+  番い  【つがい】  (one) pair (e.g. of birds), brace, couple, joint, hinge
+  手番  【てつがい】  plan, arrangements
+
+  用いる  【もちいる】  to use, to make use of, to utilize, to utilise
+
+  何  【なに】  what, how many, you-know-what, that, whatsit, what's the expression, what do you call them, what?, hey!
+  何方  【どちら】  which way, which direction, where, which one (esp. of two alternatives), who
+  何々  【なになに】  such and such (when being vague, placeholder, etc.), this and that, What?, What is the matter?, What are the items?
+  何  【なに】  what, how many, you-know-what, that, whatsit, what's the expression, what do you call them, what?, hey!
+  何か  【なにか】  something
+
